@@ -4,32 +4,54 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Employee Salary Chatbot</title>
+    <link rel="icon" href="{{ url_for('static', filename='favicon.png') }}" type="image/png">
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 </head>
 <body>
     <div class="chat-container">
-        <h1>Employee Salary Chatbot</h1>
-        
-        <div class="input-section">
-            <form id="chat-form">
-                <div class="input-group">
-                    <label for="employee-id">Employee ID:</label>
+        <!-- Login Section -->
+        <div id="login-section" class="login-section">
+            <div class="login-box">
+                <h1>Employee Salary Chatbot</h1>
+                <p class="subtitle">Please enter your Employee ID to continue</p>
+                <form id="login-form">
                     <input type="text" id="employee-id" placeholder="Enter Employee ID (e.g., E0001)" required>
-                </div>
-                
-                <div class="input-group">
-                    <label for="query">Your Query:</label>
-                    <textarea id="query" rows="3" placeholder="Ask about salary, deductions, leaves, etc." required></textarea>
-                </div>
-
-                <div id="error-message" class="error" style="display: none;"></div>
-                
-                <button type="submit">Send</button>
-            </form>
+                    <button type="submit">Start Chat</button>
+                    <div id="login-error" class="error"></div>
+                </form>
+            </div>
         </div>
 
-        <div id="chat-messages" class="chat-messages">
-            <!-- Messages will be dynamically added here -->
+        <!-- Chat Section -->
+        <div id="chat-section" class="chat-section" style="display: none;">
+            <div class="chat-header">
+                <h2>Salary Chat</h2>
+                <div class="user-info">
+                    Employee ID: <span id="current-employee-id"></span>
+                </div>
+            </div>
+
+            <div id="chat-messages" class="chat-messages">
+                <!-- Messages will be added here -->
+            </div>
+
+            <div class="chat-footer">
+                <div id="question-counter" class="question-counter">
+                    Questions: 0/10
+                </div>
+                <div class="chat-input">
+                    <form id="chat-form">
+                        <input type="text" id="query" placeholder="Ask about your salary, deductions, leaves..." required>
+                        <button type="submit">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <line x1="22" y1="2" x2="11" y2="13"></line>
+                                <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                            </svg>
+                        </button>
+                    </form>
+                </div>
+            </div>
         </div>
     </div>
 

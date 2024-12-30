@@ -1,14 +1,26 @@
-from flask import Flask, request, jsonify, render_template
+from flask import Flask, request, jsonify, render_template, session
 import google.generativeai as genai
 from google.api_core import exceptions
 import json
 import os
 from dotenv import load_dotenv
+from flask_session import Session
+from collections import defaultdict
+from datetime import datetime, timedelta
 
 # Load environment variables from .env file
 load_dotenv()
 
 app = Flask(__name__)
+
+# Configure server-side session
+app.config['SECRET_KEY'] = 'your_secret_key_here'
+app.config['SESSION_TYPE'] = 'filesystem'
+Session(app)
+
+# Initialize chat history cache
+chat_history_cache = defaultdict(list)
+CACHE_DURATION_DAYS = 7
 
 # Load employee data from JSON file
 EMPLOYEE_DATA_FILE = 'employee_database.json'
@@ -29,16 +41,170 @@ genai.configure(api_key=GOOGLE_API_KEY)
 # Use the latest stable model version
 model = genai.GenerativeModel('gemini-pro')
 
+def calculate_monthly_deductions(yearly_deductions):
+    """Convert yearly deductions to monthly values."""
+    monthly_deductions = {}
+    for key, value in yearly_deductions.items():
+        if isinstance(value, (int, float)):
+            monthly_deductions[key] = round(value / 12, 2)
+        else:
+            monthly_deductions[key] = value
+    return monthly_deductions
+
 def create_prompt_context(employee_info, query):
+    # Add monthly calculations to employee info
+    employee_info_with_monthly = employee_info.copy()
+    
+    # Calculate monthly values for all salary components
+    monthly_components = {}
+    yearly_components = ['Basic Salary', 'HRA', 'Special Allowance', 'LTA', 'Uniform Allowance']
+    for comp in yearly_components:
+        if comp in employee_info:
+            monthly_components[comp] = round(employee_info[comp] / 12, 2)
+    
+    employee_info_with_monthly['monthly_components'] = monthly_components
+
+    # Add tax slab information
+    tax_slabs = {
+        "0-2.5L": "No tax",
+        "2.5L-5L": "5%",
+        "5L-7.5L": "10%",
+        "7.5L-10L": "15%",
+        "10L-12.5L": "20%",
+        "12.5L-15L": "25%",
+        "Above 15L": "30%"
+    }
+    
+    # Add deduction explanations
+    deduction_explanations = {
+        "PF": {
+            "rate": "12% of Basic Salary",
+            "purpose": "Long-term retirement savings with tax benefits",
+            "employer_contribution": "Equal contribution from employer",
+            "withdrawal": "Withdrawable after retirement or specific conditions"
+        },
+        "Income Tax": {
+            "calculation": "Based on tax slabs after standard deduction",
+            "slabs": tax_slabs,
+            "deductions": "Section 80C, HRA, LTA can reduce taxable income"
+        },
+        "Professional Tax": {
+            "type": "State-specific tax",
+            "frequency": "Monthly deduction",
+            "purpose": "Contribution to state revenue"
+        }
+    }
+    
+    # Add allowance explanations
+    allowance_explanations = {
+        "HRA": {
+            "purpose": "For rental accommodation expenses",
+            "tax_benefit": "Tax exemption available with rent receipts",
+            "calculation": "40% of Basic Salary for non-metro cities, 50% for metros"
+        },
+        "LTA": {
+            "purpose": "For travel expenses within India",
+            "frequency": "Can be claimed twice in a block of 4 years",
+            "tax_benefit": "Tax-free if proper bills are submitted"
+        },
+        "Special Allowance": {
+            "purpose": "Additional monetary benefit",
+            "taxability": "Fully taxable",
+            "flexibility": "Can be used for any purpose"
+        }
+    }
+
+    employee_info_with_monthly['deduction_explanations'] = deduction_explanations
+    employee_info_with_monthly['allowance_explanations'] = allowance_explanations
+    
     return f"""
-    Based on the following employee information:
-    {json.dumps(employee_info, indent=2)}
+    You are a helpful salary assistant. Based on the employee information and explanations provided below, answer the query in a conversational and informative way.
     
-    Please answer the following query about salary deductions:
-    {query}
+    Employee Information:
+    {json.dumps(employee_info_with_monthly, indent=2)}
+
+    When answering questions about:
+
+    1. PF (Provident Fund):
+    - Explain it's a retirement benefit
+    - Show calculation: 12% of Basic Salary
+    - Mention employer's equal contribution
+    - Explain tax benefits
     
-    Provide a clear and detailed response focusing on the salary-related information requested.
+    2. Income Tax:
+    - Explain which tax slab applies
+    - Break down the calculation
+    - Mention available deductions
+    - Explain how to optimize tax
+    
+    3. Allowances (HRA, LTA, etc.):
+    - Explain their purpose
+    - Show how they're calculated
+    - Mention tax implications
+    - Provide usage guidelines
+    
+    4. Deductions:
+    - Explain why each deduction is made
+    - Show the calculation method
+    - Compare with previous months if relevant
+    - Suggest ways to optimize
+    
+    5. Leave and Attendance:
+    - Explain leave balance and usage
+    - Show impact on salary
+    - Explain leave policies
+    - Suggest leave planning
+
+    Format your response with:
+    - Use <salary>amount</salary> for salary components
+    - Use <deduction>amount</deduction> for deductions
+    - Use <bold>text</bold> for important information
+    - Always show both yearly and monthly figures where applicable
+    - Format all currency values with ₹ symbol
+    - Use bullet points for better readability
+    
+    Current Query: {query}
+    
+    Respond in a friendly, helpful manner. If the query is about calculations, show the step-by-step process. If it's about policies, explain them clearly with examples.
     """
+
+def format_response_with_html(text):
+    """Add HTML class formatting to the response text."""
+    # Replace the AI's HTML-like tags with spans having appropriate classes
+    text = text.replace('<deduction>', '<span class="deduction">')
+    text = text.replace('</deduction>', '</span>')
+    text = text.replace('<salary>', '<span class="salary">')
+    text = text.replace('</salary>', '</span>')
+    text = text.replace('<bold>', '<span class="bold">')
+    text = text.replace('</bold>', '</span>')
+    return text
+
+def update_chat_history(employee_id, query, response):
+    """Update chat history with timestamp and maintain 7-day limit."""
+    current_time = datetime.now()
+    chat_history_cache[employee_id].append({
+        'timestamp': current_time,
+        'query': query,
+        'response': response
+    })
+    
+    # Remove entries older than 7 days
+    cutoff_time = current_time - timedelta(days=CACHE_DURATION_DAYS)
+    chat_history_cache[employee_id] = [
+        entry for entry in chat_history_cache[employee_id]
+        if entry['timestamp'] > cutoff_time
+    ]
+
+def get_recent_chat_history(employee_id):
+    """Get chat history for the past 7 days."""
+    return [
+        {
+            'query': entry['query'],
+            'response': entry['response'],
+            'timestamp': entry['timestamp'].strftime('%Y-%m-%d %H:%M:%S')
+        }
+        for entry in chat_history_cache[employee_id]
+    ]
 
 @app.route('/')
 def index():
@@ -57,26 +223,28 @@ def chat():
         if employee_id not in employee_data:
             return jsonify({'error': 'Employee ID not found'}), 404
 
-        # Verify API key is configured
-        if not GOOGLE_API_KEY:
-            return jsonify({'error': 'API key not configured'}), 500
+        employee_info = employee_data[employee_id]
+        prompt = create_prompt_context(employee_info, query)
 
         try:
-            # Test API connection
-            model = genai.GenerativeModel('gemini-pro')
-            employee_info = employee_data[employee_id]
-            prompt = create_prompt_context(employee_info, query)
-            
             response = model.generate_content(prompt)
-            
             if not response or not response.text:
                 return jsonify({'error': 'No response from AI model'}), 500
+
+            # Format the response with HTML tags
+            formatted_response = format_response_with_html(response.text)
+            
+            # Update chat history cache
+            update_chat_history(employee_id, query, formatted_response)
+            
+            # Get recent chat history
+            history = get_recent_chat_history(employee_id)
 
             return jsonify({
                 'employee_id': employee_id,
                 'query': query,
-                'response': response.text,
-                'status': 'success'
+                'response': formatted_response,
+                'history': history
             })
 
         except exceptions.InvalidArgument:
@@ -92,14 +260,11 @@ def chat():
         except Exception as api_error:
             return jsonify({
                 'error': f'API Error: {str(api_error)}',
-                'status': 'api_error'
+                'status': 'error'
             }), 500
 
     except Exception as e:
-        return jsonify({
-            'error': f'Server Error: {str(e)}',
-            'status': 'server_error'
-        }), 500
+        return jsonify({'error': str(e)}), 500
 
 if __name__ == '__main__':
     app.run(debug=True)
