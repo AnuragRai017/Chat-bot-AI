@@ -1,0 +1,3504 @@
+{
+    "Employee_Leave_Balance": [
+        {
+            "Employee ID": "E0001",
+            "Name": "Employee_1",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0002",
+            "Name": "Employee_2",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0003",
+            "Name": "Employee_3",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0004",
+            "Name": "Employee_4",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0005",
+            "Name": "Employee_5",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0006",
+            "Name": "Employee_6",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0007",
+            "Name": "Employee_7",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0008",
+            "Name": "Employee_8",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 30
+        },
+        {
+            "Employee ID": "E0009",
+            "Name": "Employee_9",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0010",
+            "Name": "Employee_10",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0011",
+            "Name": "Employee_11",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0012",
+            "Name": "Employee_12",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 28
+        },
+        {
+            "Employee ID": "E0013",
+            "Name": "Employee_13",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 28
+        },
+        {
+            "Employee ID": "E0014",
+            "Name": "Employee_14",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 30
+        },
+        {
+            "Employee ID": "E0015",
+            "Name": "Employee_15",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0016",
+            "Name": "Employee_16",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 27
+        },
+        {
+            "Employee ID": "E0017",
+            "Name": "Employee_17",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 22
+        },
+        {
+            "Employee ID": "E0018",
+            "Name": "Employee_18",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 22
+        },
+        {
+            "Employee ID": "E0019",
+            "Name": "Employee_19",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0020",
+            "Name": "Employee_20",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0021",
+            "Name": "Employee_21",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 28
+        },
+        {
+            "Employee ID": "E0022",
+            "Name": "Employee_22",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0023",
+            "Name": "Employee_23",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0024",
+            "Name": "Employee_24",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0025",
+            "Name": "Employee_25",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 22
+        },
+        {
+            "Employee ID": "E0026",
+            "Name": "Employee_26",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0027",
+            "Name": "Employee_27",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 30
+        },
+        {
+            "Employee ID": "E0028",
+            "Name": "Employee_28",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0029",
+            "Name": "Employee_29",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0030",
+            "Name": "Employee_30",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0031",
+            "Name": "Employee_31",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0032",
+            "Name": "Employee_32",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0033",
+            "Name": "Employee_33",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0034",
+            "Name": "Employee_34",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 22
+        },
+        {
+            "Employee ID": "E0035",
+            "Name": "Employee_35",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0036",
+            "Name": "Employee_36",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0037",
+            "Name": "Employee_37",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0038",
+            "Name": "Employee_38",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0039",
+            "Name": "Employee_39",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 27
+        },
+        {
+            "Employee ID": "E0040",
+            "Name": "Employee_40",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 27
+        },
+        {
+            "Employee ID": "E0041",
+            "Name": "Employee_41",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0042",
+            "Name": "Employee_42",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0043",
+            "Name": "Employee_43",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 22
+        },
+        {
+            "Employee ID": "E0044",
+            "Name": "Employee_44",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0045",
+            "Name": "Employee_45",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0046",
+            "Name": "Employee_46",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0047",
+            "Name": "Employee_47",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0048",
+            "Name": "Employee_48",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 22
+        },
+        {
+            "Employee ID": "E0049",
+            "Name": "Employee_49",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0050",
+            "Name": "Employee_50",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0051",
+            "Name": "Employee_51",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0052",
+            "Name": "Employee_52",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0053",
+            "Name": "Employee_53",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0054",
+            "Name": "Employee_54",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0055",
+            "Name": "Employee_55",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 30
+        },
+        {
+            "Employee ID": "E0056",
+            "Name": "Employee_56",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0057",
+            "Name": "Employee_57",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 26
+        },
+        {
+            "Employee ID": "E0058",
+            "Name": "Employee_58",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 28
+        },
+        {
+            "Employee ID": "E0059",
+            "Name": "Employee_59",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 28
+        },
+        {
+            "Employee ID": "E0060",
+            "Name": "Employee_60",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 30
+        },
+        {
+            "Employee ID": "E0061",
+            "Name": "Employee_61",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0062",
+            "Name": "Employee_62",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0063",
+            "Name": "Employee_63",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0064",
+            "Name": "Employee_64",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0065",
+            "Name": "Employee_65",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0066",
+            "Name": "Employee_66",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0067",
+            "Name": "Employee_67",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 27
+        },
+        {
+            "Employee ID": "E0068",
+            "Name": "Employee_68",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0069",
+            "Name": "Employee_69",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0070",
+            "Name": "Employee_70",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0071",
+            "Name": "Employee_71",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0072",
+            "Name": "Employee_72",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 28
+        },
+        {
+            "Employee ID": "E0073",
+            "Name": "Employee_73",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 22
+        },
+        {
+            "Employee ID": "E0074",
+            "Name": "Employee_74",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0075",
+            "Name": "Employee_75",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0076",
+            "Name": "Employee_76",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0077",
+            "Name": "Employee_77",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 27
+        },
+        {
+            "Employee ID": "E0078",
+            "Name": "Employee_78",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0079",
+            "Name": "Employee_79",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 26
+        },
+        {
+            "Employee ID": "E0080",
+            "Name": "Employee_80",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 26
+        },
+        {
+            "Employee ID": "E0081",
+            "Name": "Employee_81",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0082",
+            "Name": "Employee_82",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0083",
+            "Name": "Employee_83",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0084",
+            "Name": "Employee_84",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0085",
+            "Name": "Employee_85",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0086",
+            "Name": "Employee_86",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0087",
+            "Name": "Employee_87",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0088",
+            "Name": "Employee_88",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0089",
+            "Name": "Employee_89",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0090",
+            "Name": "Employee_90",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 27
+        },
+        {
+            "Employee ID": "E0091",
+            "Name": "Employee_91",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0092",
+            "Name": "Employee_92",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0093",
+            "Name": "Employee_93",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 26
+        },
+        {
+            "Employee ID": "E0094",
+            "Name": "Employee_94",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 27
+        },
+        {
+            "Employee ID": "E0095",
+            "Name": "Employee_95",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0096",
+            "Name": "Employee_96",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 26
+        },
+        {
+            "Employee ID": "E0097",
+            "Name": "Employee_97",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 28
+        },
+        {
+            "Employee ID": "E0098",
+            "Name": "Employee_98",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0099",
+            "Name": "Employee_99",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0100",
+            "Name": "Employee_100",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0101",
+            "Name": "Employee_101",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 26
+        },
+        {
+            "Employee ID": "E0102",
+            "Name": "Employee_102",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 27
+        },
+        {
+            "Employee ID": "E0103",
+            "Name": "Employee_103",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0104",
+            "Name": "Employee_104",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 28
+        },
+        {
+            "Employee ID": "E0105",
+            "Name": "Employee_105",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 22
+        },
+        {
+            "Employee ID": "E0106",
+            "Name": "Employee_106",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0107",
+            "Name": "Employee_107",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0108",
+            "Name": "Employee_108",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 28
+        },
+        {
+            "Employee ID": "E0109",
+            "Name": "Employee_109",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0110",
+            "Name": "Employee_110",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 28
+        },
+        {
+            "Employee ID": "E0111",
+            "Name": "Employee_111",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0112",
+            "Name": "Employee_112",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0113",
+            "Name": "Employee_113",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0114",
+            "Name": "Employee_114",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0115",
+            "Name": "Employee_115",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0116",
+            "Name": "Employee_116",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0117",
+            "Name": "Employee_117",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0118",
+            "Name": "Employee_118",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0119",
+            "Name": "Employee_119",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0120",
+            "Name": "Employee_120",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0121",
+            "Name": "Employee_121",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0122",
+            "Name": "Employee_122",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0123",
+            "Name": "Employee_123",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0124",
+            "Name": "Employee_124",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 26
+        },
+        {
+            "Employee ID": "E0125",
+            "Name": "Employee_125",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0126",
+            "Name": "Employee_126",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 30
+        },
+        {
+            "Employee ID": "E0127",
+            "Name": "Employee_127",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0128",
+            "Name": "Employee_128",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0129",
+            "Name": "Employee_129",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 27
+        },
+        {
+            "Employee ID": "E0130",
+            "Name": "Employee_130",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0131",
+            "Name": "Employee_131",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0132",
+            "Name": "Employee_132",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0133",
+            "Name": "Employee_133",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 26
+        },
+        {
+            "Employee ID": "E0134",
+            "Name": "Employee_134",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0135",
+            "Name": "Employee_135",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0136",
+            "Name": "Employee_136",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0137",
+            "Name": "Employee_137",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 28
+        },
+        {
+            "Employee ID": "E0138",
+            "Name": "Employee_138",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0139",
+            "Name": "Employee_139",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0140",
+            "Name": "Employee_140",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0141",
+            "Name": "Employee_141",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0142",
+            "Name": "Employee_142",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0143",
+            "Name": "Employee_143",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0144",
+            "Name": "Employee_144",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0145",
+            "Name": "Employee_145",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 28
+        },
+        {
+            "Employee ID": "E0146",
+            "Name": "Employee_146",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 30
+        },
+        {
+            "Employee ID": "E0147",
+            "Name": "Employee_147",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0148",
+            "Name": "Employee_148",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 27
+        },
+        {
+            "Employee ID": "E0149",
+            "Name": "Employee_149",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0150",
+            "Name": "Employee_150",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0151",
+            "Name": "Employee_151",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0152",
+            "Name": "Employee_152",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0153",
+            "Name": "Employee_153",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0154",
+            "Name": "Employee_154",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0155",
+            "Name": "Employee_155",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0156",
+            "Name": "Employee_156",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 22
+        },
+        {
+            "Employee ID": "E0157",
+            "Name": "Employee_157",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0158",
+            "Name": "Employee_158",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 26
+        },
+        {
+            "Employee ID": "E0159",
+            "Name": "Employee_159",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 30
+        },
+        {
+            "Employee ID": "E0160",
+            "Name": "Employee_160",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0161",
+            "Name": "Employee_161",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0162",
+            "Name": "Employee_162",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0163",
+            "Name": "Employee_163",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0164",
+            "Name": "Employee_164",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0165",
+            "Name": "Employee_165",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 27
+        },
+        {
+            "Employee ID": "E0166",
+            "Name": "Employee_166",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 22
+        },
+        {
+            "Employee ID": "E0167",
+            "Name": "Employee_167",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0168",
+            "Name": "Employee_168",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0169",
+            "Name": "Employee_169",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0170",
+            "Name": "Employee_170",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0171",
+            "Name": "Employee_171",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 22
+        },
+        {
+            "Employee ID": "E0172",
+            "Name": "Employee_172",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 30
+        },
+        {
+            "Employee ID": "E0173",
+            "Name": "Employee_173",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0174",
+            "Name": "Employee_174",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0175",
+            "Name": "Employee_175",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0176",
+            "Name": "Employee_176",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0177",
+            "Name": "Employee_177",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0178",
+            "Name": "Employee_178",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0179",
+            "Name": "Employee_179",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 27
+        },
+        {
+            "Employee ID": "E0180",
+            "Name": "Employee_180",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0181",
+            "Name": "Employee_181",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0182",
+            "Name": "Employee_182",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0183",
+            "Name": "Employee_183",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0184",
+            "Name": "Employee_184",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0185",
+            "Name": "Employee_185",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0186",
+            "Name": "Employee_186",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0187",
+            "Name": "Employee_187",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0188",
+            "Name": "Employee_188",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0189",
+            "Name": "Employee_189",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0190",
+            "Name": "Employee_190",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0191",
+            "Name": "Employee_191",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0192",
+            "Name": "Employee_192",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0193",
+            "Name": "Employee_193",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0194",
+            "Name": "Employee_194",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 22
+        },
+        {
+            "Employee ID": "E0195",
+            "Name": "Employee_195",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0196",
+            "Name": "Employee_196",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 28
+        },
+        {
+            "Employee ID": "E0197",
+            "Name": "Employee_197",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0198",
+            "Name": "Employee_198",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0199",
+            "Name": "Employee_199",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 28
+        },
+        {
+            "Employee ID": "E0200",
+            "Name": "Employee_200",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0201",
+            "Name": "Employee_201",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0202",
+            "Name": "Employee_202",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0203",
+            "Name": "Employee_203",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0204",
+            "Name": "Employee_204",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 22
+        },
+        {
+            "Employee ID": "E0205",
+            "Name": "Employee_205",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 26
+        },
+        {
+            "Employee ID": "E0206",
+            "Name": "Employee_206",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0207",
+            "Name": "Employee_207",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0208",
+            "Name": "Employee_208",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0209",
+            "Name": "Employee_209",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0210",
+            "Name": "Employee_210",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0211",
+            "Name": "Employee_211",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0212",
+            "Name": "Employee_212",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0213",
+            "Name": "Employee_213",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0214",
+            "Name": "Employee_214",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0215",
+            "Name": "Employee_215",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0216",
+            "Name": "Employee_216",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0217",
+            "Name": "Employee_217",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 26
+        },
+        {
+            "Employee ID": "E0218",
+            "Name": "Employee_218",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0219",
+            "Name": "Employee_219",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0220",
+            "Name": "Employee_220",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0221",
+            "Name": "Employee_221",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0222",
+            "Name": "Employee_222",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0223",
+            "Name": "Employee_223",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0224",
+            "Name": "Employee_224",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0225",
+            "Name": "Employee_225",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 26
+        },
+        {
+            "Employee ID": "E0226",
+            "Name": "Employee_226",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 26
+        },
+        {
+            "Employee ID": "E0227",
+            "Name": "Employee_227",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0228",
+            "Name": "Employee_228",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 26
+        },
+        {
+            "Employee ID": "E0229",
+            "Name": "Employee_229",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0230",
+            "Name": "Employee_230",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0231",
+            "Name": "Employee_231",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0232",
+            "Name": "Employee_232",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 22
+        },
+        {
+            "Employee ID": "E0233",
+            "Name": "Employee_233",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0234",
+            "Name": "Employee_234",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0235",
+            "Name": "Employee_235",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0236",
+            "Name": "Employee_236",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0237",
+            "Name": "Employee_237",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 30
+        },
+        {
+            "Employee ID": "E0238",
+            "Name": "Employee_238",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0239",
+            "Name": "Employee_239",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0240",
+            "Name": "Employee_240",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0241",
+            "Name": "Employee_241",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0242",
+            "Name": "Employee_242",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0243",
+            "Name": "Employee_243",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 26
+        },
+        {
+            "Employee ID": "E0244",
+            "Name": "Employee_244",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 27
+        },
+        {
+            "Employee ID": "E0245",
+            "Name": "Employee_245",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0246",
+            "Name": "Employee_246",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0247",
+            "Name": "Employee_247",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0248",
+            "Name": "Employee_248",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 26
+        },
+        {
+            "Employee ID": "E0249",
+            "Name": "Employee_249",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0250",
+            "Name": "Employee_250",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 22
+        },
+        {
+            "Employee ID": "E0251",
+            "Name": "Employee_251",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0252",
+            "Name": "Employee_252",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 22
+        },
+        {
+            "Employee ID": "E0253",
+            "Name": "Employee_253",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0254",
+            "Name": "Employee_254",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0255",
+            "Name": "Employee_255",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0256",
+            "Name": "Employee_256",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0257",
+            "Name": "Employee_257",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0258",
+            "Name": "Employee_258",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0259",
+            "Name": "Employee_259",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0260",
+            "Name": "Employee_260",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0261",
+            "Name": "Employee_261",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0262",
+            "Name": "Employee_262",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0263",
+            "Name": "Employee_263",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0264",
+            "Name": "Employee_264",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0265",
+            "Name": "Employee_265",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 28
+        },
+        {
+            "Employee ID": "E0266",
+            "Name": "Employee_266",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0267",
+            "Name": "Employee_267",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0268",
+            "Name": "Employee_268",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 22
+        },
+        {
+            "Employee ID": "E0269",
+            "Name": "Employee_269",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0270",
+            "Name": "Employee_270",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0271",
+            "Name": "Employee_271",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0272",
+            "Name": "Employee_272",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0273",
+            "Name": "Employee_273",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0274",
+            "Name": "Employee_274",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0275",
+            "Name": "Employee_275",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0276",
+            "Name": "Employee_276",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0277",
+            "Name": "Employee_277",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0278",
+            "Name": "Employee_278",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 27
+        },
+        {
+            "Employee ID": "E0279",
+            "Name": "Employee_279",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0280",
+            "Name": "Employee_280",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 28
+        },
+        {
+            "Employee ID": "E0281",
+            "Name": "Employee_281",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 22
+        },
+        {
+            "Employee ID": "E0282",
+            "Name": "Employee_282",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 30
+        },
+        {
+            "Employee ID": "E0283",
+            "Name": "Employee_283",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0284",
+            "Name": "Employee_284",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0285",
+            "Name": "Employee_285",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0286",
+            "Name": "Employee_286",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0287",
+            "Name": "Employee_287",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0288",
+            "Name": "Employee_288",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0289",
+            "Name": "Employee_289",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0290",
+            "Name": "Employee_290",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0291",
+            "Name": "Employee_291",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0292",
+            "Name": "Employee_292",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0293",
+            "Name": "Employee_293",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0294",
+            "Name": "Employee_294",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 27
+        },
+        {
+            "Employee ID": "E0295",
+            "Name": "Employee_295",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0296",
+            "Name": "Employee_296",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0297",
+            "Name": "Employee_297",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 30
+        },
+        {
+            "Employee ID": "E0298",
+            "Name": "Employee_298",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0299",
+            "Name": "Employee_299",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0300",
+            "Name": "Employee_300",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0301",
+            "Name": "Employee_301",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0302",
+            "Name": "Employee_302",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 30
+        },
+        {
+            "Employee ID": "E0303",
+            "Name": "Employee_303",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 27
+        },
+        {
+            "Employee ID": "E0304",
+            "Name": "Employee_304",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0305",
+            "Name": "Employee_305",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0306",
+            "Name": "Employee_306",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0307",
+            "Name": "Employee_307",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 27
+        },
+        {
+            "Employee ID": "E0308",
+            "Name": "Employee_308",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0309",
+            "Name": "Employee_309",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0310",
+            "Name": "Employee_310",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0311",
+            "Name": "Employee_311",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0312",
+            "Name": "Employee_312",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0313",
+            "Name": "Employee_313",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0314",
+            "Name": "Employee_314",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 30
+        },
+        {
+            "Employee ID": "E0315",
+            "Name": "Employee_315",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 26
+        },
+        {
+            "Employee ID": "E0316",
+            "Name": "Employee_316",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0317",
+            "Name": "Employee_317",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0318",
+            "Name": "Employee_318",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0319",
+            "Name": "Employee_319",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0320",
+            "Name": "Employee_320",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0321",
+            "Name": "Employee_321",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 22
+        },
+        {
+            "Employee ID": "E0322",
+            "Name": "Employee_322",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0323",
+            "Name": "Employee_323",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0324",
+            "Name": "Employee_324",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0325",
+            "Name": "Employee_325",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 22
+        },
+        {
+            "Employee ID": "E0326",
+            "Name": "Employee_326",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0327",
+            "Name": "Employee_327",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0328",
+            "Name": "Employee_328",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0329",
+            "Name": "Employee_329",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0330",
+            "Name": "Employee_330",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 28
+        },
+        {
+            "Employee ID": "E0331",
+            "Name": "Employee_331",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0332",
+            "Name": "Employee_332",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0333",
+            "Name": "Employee_333",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0334",
+            "Name": "Employee_334",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0335",
+            "Name": "Employee_335",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 27
+        },
+        {
+            "Employee ID": "E0336",
+            "Name": "Employee_336",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0337",
+            "Name": "Employee_337",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0338",
+            "Name": "Employee_338",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0339",
+            "Name": "Employee_339",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0340",
+            "Name": "Employee_340",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 28
+        },
+        {
+            "Employee ID": "E0341",
+            "Name": "Employee_341",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0342",
+            "Name": "Employee_342",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0343",
+            "Name": "Employee_343",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 30
+        },
+        {
+            "Employee ID": "E0344",
+            "Name": "Employee_344",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 27
+        },
+        {
+            "Employee ID": "E0345",
+            "Name": "Employee_345",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0346",
+            "Name": "Employee_346",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0347",
+            "Name": "Employee_347",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0348",
+            "Name": "Employee_348",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0349",
+            "Name": "Employee_349",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0350",
+            "Name": "Employee_350",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0351",
+            "Name": "Employee_351",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0352",
+            "Name": "Employee_352",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0353",
+            "Name": "Employee_353",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0354",
+            "Name": "Employee_354",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 27
+        },
+        {
+            "Employee ID": "E0355",
+            "Name": "Employee_355",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0356",
+            "Name": "Employee_356",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 30
+        },
+        {
+            "Employee ID": "E0357",
+            "Name": "Employee_357",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0358",
+            "Name": "Employee_358",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0359",
+            "Name": "Employee_359",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0360",
+            "Name": "Employee_360",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0361",
+            "Name": "Employee_361",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0362",
+            "Name": "Employee_362",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0363",
+            "Name": "Employee_363",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0364",
+            "Name": "Employee_364",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 26
+        },
+        {
+            "Employee ID": "E0365",
+            "Name": "Employee_365",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 26
+        },
+        {
+            "Employee ID": "E0366",
+            "Name": "Employee_366",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 27
+        },
+        {
+            "Employee ID": "E0367",
+            "Name": "Employee_367",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0368",
+            "Name": "Employee_368",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0369",
+            "Name": "Employee_369",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0370",
+            "Name": "Employee_370",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 22
+        },
+        {
+            "Employee ID": "E0371",
+            "Name": "Employee_371",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0372",
+            "Name": "Employee_372",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0373",
+            "Name": "Employee_373",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0374",
+            "Name": "Employee_374",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0375",
+            "Name": "Employee_375",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0376",
+            "Name": "Employee_376",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0377",
+            "Name": "Employee_377",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0378",
+            "Name": "Employee_378",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 27
+        },
+        {
+            "Employee ID": "E0379",
+            "Name": "Employee_379",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0380",
+            "Name": "Employee_380",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 28
+        },
+        {
+            "Employee ID": "E0381",
+            "Name": "Employee_381",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0382",
+            "Name": "Employee_382",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 22
+        },
+        {
+            "Employee ID": "E0383",
+            "Name": "Employee_383",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0384",
+            "Name": "Employee_384",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0385",
+            "Name": "Employee_385",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 27
+        },
+        {
+            "Employee ID": "E0386",
+            "Name": "Employee_386",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0387",
+            "Name": "Employee_387",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0388",
+            "Name": "Employee_388",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0389",
+            "Name": "Employee_389",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0390",
+            "Name": "Employee_390",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0391",
+            "Name": "Employee_391",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0392",
+            "Name": "Employee_392",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0393",
+            "Name": "Employee_393",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0394",
+            "Name": "Employee_394",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 26
+        },
+        {
+            "Employee ID": "E0395",
+            "Name": "Employee_395",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0396",
+            "Name": "Employee_396",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0397",
+            "Name": "Employee_397",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 28
+        },
+        {
+            "Employee ID": "E0398",
+            "Name": "Employee_398",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 28
+        },
+        {
+            "Employee ID": "E0399",
+            "Name": "Employee_399",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 26
+        },
+        {
+            "Employee ID": "E0400",
+            "Name": "Employee_400",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0401",
+            "Name": "Employee_401",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0402",
+            "Name": "Employee_402",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0403",
+            "Name": "Employee_403",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0404",
+            "Name": "Employee_404",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0405",
+            "Name": "Employee_405",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0406",
+            "Name": "Employee_406",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0407",
+            "Name": "Employee_407",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0408",
+            "Name": "Employee_408",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0409",
+            "Name": "Employee_409",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0410",
+            "Name": "Employee_410",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0411",
+            "Name": "Employee_411",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 27
+        },
+        {
+            "Employee ID": "E0412",
+            "Name": "Employee_412",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 26
+        },
+        {
+            "Employee ID": "E0413",
+            "Name": "Employee_413",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 22
+        },
+        {
+            "Employee ID": "E0414",
+            "Name": "Employee_414",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 26
+        },
+        {
+            "Employee ID": "E0415",
+            "Name": "Employee_415",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0416",
+            "Name": "Employee_416",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0417",
+            "Name": "Employee_417",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0418",
+            "Name": "Employee_418",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0419",
+            "Name": "Employee_419",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0420",
+            "Name": "Employee_420",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0421",
+            "Name": "Employee_421",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0422",
+            "Name": "Employee_422",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0423",
+            "Name": "Employee_423",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0424",
+            "Name": "Employee_424",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 30
+        },
+        {
+            "Employee ID": "E0425",
+            "Name": "Employee_425",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0426",
+            "Name": "Employee_426",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 22
+        },
+        {
+            "Employee ID": "E0427",
+            "Name": "Employee_427",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 27
+        },
+        {
+            "Employee ID": "E0428",
+            "Name": "Employee_428",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 28
+        },
+        {
+            "Employee ID": "E0429",
+            "Name": "Employee_429",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0430",
+            "Name": "Employee_430",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0431",
+            "Name": "Employee_431",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 30
+        },
+        {
+            "Employee ID": "E0432",
+            "Name": "Employee_432",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0433",
+            "Name": "Employee_433",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 30
+        },
+        {
+            "Employee ID": "E0434",
+            "Name": "Employee_434",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0435",
+            "Name": "Employee_435",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0436",
+            "Name": "Employee_436",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0437",
+            "Name": "Employee_437",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0438",
+            "Name": "Employee_438",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0439",
+            "Name": "Employee_439",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 19
+        },
+        {
+            "Employee ID": "E0440",
+            "Name": "Employee_440",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0441",
+            "Name": "Employee_441",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0442",
+            "Name": "Employee_442",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0443",
+            "Name": "Employee_443",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0444",
+            "Name": "Employee_444",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 22
+        },
+        {
+            "Employee ID": "E0445",
+            "Name": "Employee_445",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0446",
+            "Name": "Employee_446",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 22
+        },
+        {
+            "Employee ID": "E0447",
+            "Name": "Employee_447",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0448",
+            "Name": "Employee_448",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0449",
+            "Name": "Employee_449",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 27
+        },
+        {
+            "Employee ID": "E0450",
+            "Name": "Employee_450",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0451",
+            "Name": "Employee_451",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0452",
+            "Name": "Employee_452",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0453",
+            "Name": "Employee_453",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 27
+        },
+        {
+            "Employee ID": "E0454",
+            "Name": "Employee_454",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0455",
+            "Name": "Employee_455",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0456",
+            "Name": "Employee_456",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0457",
+            "Name": "Employee_457",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0458",
+            "Name": "Employee_458",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0459",
+            "Name": "Employee_459",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0460",
+            "Name": "Employee_460",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 28
+        },
+        {
+            "Employee ID": "E0461",
+            "Name": "Employee_461",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0462",
+            "Name": "Employee_462",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0463",
+            "Name": "Employee_463",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 22
+        },
+        {
+            "Employee ID": "E0464",
+            "Name": "Employee_464",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 24
+        },
+        {
+            "Employee ID": "E0465",
+            "Name": "Employee_465",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0466",
+            "Name": "Employee_466",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0467",
+            "Name": "Employee_467",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0468",
+            "Name": "Employee_468",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 28
+        },
+        {
+            "Employee ID": "E0469",
+            "Name": "Employee_469",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 28
+        },
+        {
+            "Employee ID": "E0470",
+            "Name": "Employee_470",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0471",
+            "Name": "Employee_471",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0472",
+            "Name": "Employee_472",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 28
+        },
+        {
+            "Employee ID": "E0473",
+            "Name": "Employee_473",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 22
+        },
+        {
+            "Employee ID": "E0474",
+            "Name": "Employee_474",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0475",
+            "Name": "Employee_475",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 28
+        },
+        {
+            "Employee ID": "E0476",
+            "Name": "Employee_476",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0477",
+            "Name": "Employee_477",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0478",
+            "Name": "Employee_478",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0479",
+            "Name": "Employee_479",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 17
+        },
+        {
+            "Employee ID": "E0480",
+            "Name": "Employee_480",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0481",
+            "Name": "Employee_481",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 15
+        },
+        {
+            "Employee ID": "E0482",
+            "Name": "Employee_482",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0483",
+            "Name": "Employee_483",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0484",
+            "Name": "Employee_484",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 26
+        },
+        {
+            "Employee ID": "E0485",
+            "Name": "Employee_485",
+            "Sick Leave (Opening)": 7,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0486",
+            "Name": "Employee_486",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0487",
+            "Name": "Employee_487",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 18
+        },
+        {
+            "Employee ID": "E0488",
+            "Name": "Employee_488",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 9,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0489",
+            "Name": "Employee_489",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0490",
+            "Name": "Employee_490",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 21
+        },
+        {
+            "Employee ID": "E0491",
+            "Name": "Employee_491",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0492",
+            "Name": "Employee_492",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 29
+        },
+        {
+            "Employee ID": "E0493",
+            "Name": "Employee_493",
+            "Sick Leave (Opening)": 10,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 27
+        },
+        {
+            "Employee ID": "E0494",
+            "Name": "Employee_494",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 26
+        },
+        {
+            "Employee ID": "E0495",
+            "Name": "Employee_495",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 28
+        },
+        {
+            "Employee ID": "E0496",
+            "Name": "Employee_496",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 6,
+            "Privilege Leave (Opening)": 16
+        },
+        {
+            "Employee ID": "E0497",
+            "Name": "Employee_497",
+            "Sick Leave (Opening)": 6,
+            "Casual Leave (Opening)": 7,
+            "Privilege Leave (Opening)": 23
+        },
+        {
+            "Employee ID": "E0498",
+            "Name": "Employee_498",
+            "Sick Leave (Opening)": 8,
+            "Casual Leave (Opening)": 5,
+            "Privilege Leave (Opening)": 25
+        },
+        {
+            "Employee ID": "E0499",
+            "Name": "Employee_499",
+            "Sick Leave (Opening)": 5,
+            "Casual Leave (Opening)": 10,
+            "Privilege Leave (Opening)": 20
+        },
+        {
+            "Employee ID": "E0500",
+            "Name": "Employee_500",
+            "Sick Leave (Opening)": 9,
+            "Casual Leave (Opening)": 8,
+            "Privilege Leave (Opening)": 21
+        }
+    ]
+}

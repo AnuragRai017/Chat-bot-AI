@@ -1,0 +1,5004 @@
+{
+    "Adjusted_Employee_Attendance_Fi": [
+        {
+            "Employee ID": "E0001",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 4
+        },
+        {
+            "Employee ID": "E0002",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 4
+        },
+        {
+            "Employee ID": "E0003",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 2,
+            "Unpaid Absences": 3
+        },
+        {
+            "Employee ID": "E0004",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 3
+        },
+        {
+            "Employee ID": "E0005",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 5
+        },
+        {
+            "Employee ID": "E0006",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 2,
+            "Unpaid Absences": 2
+        },
+        {
+            "Employee ID": "E0007",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 2
+        },
+        {
+            "Employee ID": "E0008",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 2
+        },
+        {
+            "Employee ID": "E0009",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 4
+        },
+        {
+            "Employee ID": "E0010",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 2,
+            "Unpaid Absences": 3
+        },
+        {
+            "Employee ID": "E0011",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 4
+        },
+        {
+            "Employee ID": "E0012",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 5
+        },
+        {
+            "Employee ID": "E0013",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 4
+        },
+        {
+            "Employee ID": "E0014",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 4
+        },
+        {
+            "Employee ID": "E0015",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 4
+        },
+        {
+            "Employee ID": "E0016",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 4
+        },
+        {
+            "Employee ID": "E0017",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 2,
+            "Unpaid Absences": 2
+        },
+        {
+            "Employee ID": "E0018",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 5
+        },
+        {
+            "Employee ID": "E0019",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 3
+        },
+        {
+            "Employee ID": "E0020",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 4
+        },
+        {
+            "Employee ID": "E0021",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 2
+        },
+        {
+            "Employee ID": "E0022",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 4
+        },
+        {
+            "Employee ID": "E0023",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 2
+        },
+        {
+            "Employee ID": "E0024",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 2
+        },
+        {
+            "Employee ID": "E0025",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 2,
+            "Privilege Leave Used": 4,
+            "Unpaid Absences": 2
+        },
+        {
+            "Employee ID": "E0026",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 4
+        },
+        {
+            "Employee ID": "E0027",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 2,
+            "Unpaid Absences": 1
+        },
+        {
+            "Employee ID": "E0028",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 4
+        },
+        {
+            "Employee ID": "E0029",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 5
+        },
+        {
+            "Employee ID": "E0030",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 4
+        },
+        {
+            "Employee ID": "E0031",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 3
+        },
+        {
+            "Employee ID": "E0032",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 4
+        },
+        {
+            "Employee ID": "E0033",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 4
+        },
+        {
+            "Employee ID": "E0034",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 3,
+            "Privilege Leave Used": 6,
+            "Unpaid Absences": 2
+        },
+        {
+            "Employee ID": "E0035",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 2
+        },
+        {
+            "Employee ID": "E0036",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 4
+        },
+        {
+            "Employee ID": "E0037",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 2
+        },
+        {
+            "Employee ID": "E0038",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 5
+        },
+        {
+            "Employee ID": "E0039",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 3
+        },
+        {
+            "Employee ID": "E0040",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 2,
+            "Privilege Leave Used": 4,
+            "Unpaid Absences": 2
+        },
+        {
+            "Employee ID": "E0041",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 2,
+            "Unpaid Absences": 2
+        },
+        {
+            "Employee ID": "E0042",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 4
+        },
+        {
+            "Employee ID": "E0043",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 2,
+            "Unpaid Absences": 3
+        },
+        {
+            "Employee ID": "E0044",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 3
+        },
+        {
+            "Employee ID": "E0045",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 3
+        },
+        {
+            "Employee ID": "E0046",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 4
+        },
+        {
+            "Employee ID": "E0047",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 4
+        },
+        {
+            "Employee ID": "E0048",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 2,
+            "Unpaid Absences": 2
+        },
+        {
+            "Employee ID": "E0049",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 5
+        },
+        {
+            "Employee ID": "E0050",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 5
+        },
+        {
+            "Employee ID": "E0051",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0052",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0053",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0054",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0055",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0056",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0057",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0058",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0059",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0060",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0061",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 9,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0062",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0063",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 3,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0064",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0065",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0066",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0067",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0068",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 3,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0069",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0070",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0071",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0072",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 3,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0073",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0074",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0075",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0076",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0077",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0078",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0079",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0080",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0081",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0082",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 9,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0083",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0084",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 9,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0085",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0086",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0087",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 10,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0088",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 4,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0089",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0090",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0091",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 2,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0092",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0093",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0094",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0095",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0096",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0097",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0098",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 3,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0099",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 5,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0100",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0101",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0102",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0103",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0104",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0105",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 4,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0106",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0107",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0108",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0109",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 3,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0110",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0111",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 10,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0112",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0113",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0114",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0115",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0116",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 3,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0117",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0118",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0119",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0120",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0121",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0122",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0123",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0124",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0125",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0126",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 9,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0127",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 3,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0128",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 3,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0129",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 9,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0130",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0131",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0132",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 9,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0133",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 3,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0134",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0135",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0136",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0137",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 2,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0138",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0139",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0140",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0141",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0142",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 10,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0143",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0144",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0145",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0146",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0147",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0148",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 4,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0149",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0150",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 3,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0151",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0152",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 9,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0153",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0154",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0155",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0156",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 3,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0157",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0158",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0159",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0160",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0161",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 2,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0162",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 9,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0163",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0164",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 2,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0165",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0166",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 9,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0167",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0168",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0169",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0170",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 2,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0171",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0172",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0173",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 3,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0174",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0175",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0176",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0177",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0178",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0179",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0180",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0181",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0182",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0183",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0184",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0185",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0186",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0187",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0188",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0189",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0190",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0191",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 4,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0192",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0193",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0194",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0195",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0196",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0197",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 5,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0198",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0199",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0200",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 9,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0201",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0202",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0203",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 4,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0204",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0205",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0206",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0207",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0208",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 4,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0209",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0210",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0211",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0212",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 2,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0213",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0214",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0215",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0216",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0217",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0218",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 9,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0219",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 9,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0220",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0221",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0222",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0223",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0224",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0225",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0226",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0227",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0228",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0229",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0230",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 4,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0231",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0232",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0233",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0234",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0235",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0236",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 2,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0237",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0238",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0239",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0240",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 3,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0241",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0242",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0243",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0244",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0245",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0246",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0247",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0248",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 4,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0249",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 4,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0250",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0251",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0252",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0253",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0254",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0255",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0256",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0257",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0258",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0259",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0260",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0261",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0262",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0263",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0264",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0265",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0266",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0267",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 4,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0268",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0269",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0270",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0271",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0272",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 5,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0273",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0274",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0275",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 2,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0276",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0277",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0278",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0279",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0280",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0281",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0282",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0283",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0284",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0285",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0286",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0287",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0288",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0289",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0290",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0291",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0292",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0293",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 4,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0294",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 4,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0295",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0296",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0297",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0298",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0299",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0300",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0301",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0302",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0303",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 3,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0304",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0305",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 3,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0306",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0307",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 3,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0308",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 4,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0309",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 2,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0310",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0311",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0312",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0313",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0314",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0315",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0316",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0317",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 2,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0318",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0319",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0320",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0321",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0322",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0323",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0324",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0325",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 4,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0326",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 9,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0327",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0328",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0329",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0330",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 4,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0331",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0332",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0333",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 10,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0334",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0335",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 10,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0336",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0337",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0338",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0339",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0340",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0341",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0342",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0343",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0344",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0345",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0346",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 3,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0347",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0348",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0349",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0350",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0351",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0352",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 9,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0353",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0354",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0355",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0356",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0357",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0358",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0359",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0360",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0361",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0362",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0363",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0364",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0365",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 3,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0366",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0367",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0368",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0369",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0370",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0371",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0372",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0373",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0374",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0375",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 2,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0376",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 4,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0377",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 9,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0378",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0379",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0380",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0381",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0382",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0383",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0384",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0385",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0386",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0387",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 9,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0388",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0389",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 9,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0390",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0391",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 2,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0392",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0393",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0394",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0395",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0396",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 9,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0397",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0398",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0399",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 2,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0400",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0401",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0402",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0403",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 3,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0404",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0405",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0406",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0407",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 3,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0408",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0409",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0410",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 9,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0411",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 5,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0412",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 10,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0413",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0414",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 2,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0415",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0416",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 10,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0417",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0418",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0419",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0420",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0421",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0422",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0423",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0424",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 9,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0425",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0426",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0427",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0428",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 10,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0429",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0430",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0431",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0432",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0433",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0434",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0435",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 3,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0436",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 9,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0437",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 3,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0438",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0439",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0440",
+            "Total Days": 31,
+            "Days Present": 31,
+            "Days Absent": 0,
+            "Sick Leave Used": 0,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0441",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 2,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0442",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0443",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 2,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0444",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0445",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0446",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 9,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0447",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0448",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0449",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0450",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0451",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0452",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0453",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 4,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0454",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0455",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0456",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0457",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 9,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0458",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 2,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0459",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 9,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0460",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0461",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 3,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0462",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0463",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0464",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 2,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0465",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 3,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0466",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 2,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0467",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0468",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0469",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0470",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0471",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0472",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0473",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 5,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0474",
+            "Total Days": 31,
+            "Days Present": 21,
+            "Days Absent": 10,
+            "Sick Leave Used": 9,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0475",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0476",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 9,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0477",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 7,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0478",
+            "Total Days": 31,
+            "Days Present": 23,
+            "Days Absent": 8,
+            "Sick Leave Used": 8,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0479",
+            "Total Days": 31,
+            "Days Present": 24,
+            "Days Absent": 7,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0480",
+            "Total Days": 31,
+            "Days Present": 26,
+            "Days Absent": 5,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0481",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 9,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0482",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 9,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0483",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0484",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0485",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0486",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0487",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0488",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 5,
+            "Casual Leave Used": 1,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0489",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0490",
+            "Total Days": 31,
+            "Days Present": 28,
+            "Days Absent": 3,
+            "Sick Leave Used": 3,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0491",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 3,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0492",
+            "Total Days": 31,
+            "Days Present": 30,
+            "Days Absent": 1,
+            "Sick Leave Used": 1,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0493",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0494",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 9,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0495",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 3,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0496",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0497",
+            "Total Days": 31,
+            "Days Present": 22,
+            "Days Absent": 9,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 3,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0498",
+            "Total Days": 31,
+            "Days Present": 25,
+            "Days Absent": 6,
+            "Sick Leave Used": 6,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0499",
+            "Total Days": 31,
+            "Days Present": 27,
+            "Days Absent": 4,
+            "Sick Leave Used": 4,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        },
+        {
+            "Employee ID": "E0500",
+            "Total Days": 31,
+            "Days Present": 29,
+            "Days Absent": 2,
+            "Sick Leave Used": 2,
+            "Casual Leave Used": 0,
+            "Privilege Leave Used": 0,
+            "Unpaid Absences": 0
+        }
+    ]
+}
