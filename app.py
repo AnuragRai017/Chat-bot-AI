@@ -39,7 +39,7 @@ if not GOOGLE_API_KEY:
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Use the latest stable model version
-model = genai.GenerativeModel('gemini-pro')
+model = genai.GenerativeModel('gemini-2.0-flash-exp')
 
 def calculate_monthly_deductions(yearly_deductions):
     """Convert yearly deductions to monthly values."""
@@ -168,16 +168,92 @@ def create_prompt_context(employee_info, query):
     Respond in a friendly, helpful manner. If the query is about calculations, show the step-by-step process. If it's about policies, explain them clearly with examples.
     """
 
-def format_response_with_html(text):
-    """Add HTML class formatting to the response text."""
-    # Replace the AI's HTML-like tags with spans having appropriate classes
-    text = text.replace('<deduction>', '<span class="deduction">')
-    text = text.replace('</deduction>', '</span>')
-    text = text.replace('<salary>', '<span class="salary">')
-    text = text.replace('</salary>', '</span>')
-    text = text.replace('<bold>', '<span class="bold">')
-    text = text.replace('</bold>', '</span>')
-    return text
+def is_deduction_query(query):
+    """Check if the query is related to deductions or amounts"""
+    deduction_keywords = ['deduction', 'amount', 'salary', 'pay', 'cut', 'tax', 'pf', 'professional tax']
+    return any(keyword in query.lower() for keyword in deduction_keywords)
+
+def format_deduction_table(employee_info, is_yearly=False):
+    """Create an HTML table for deductions"""
+    # Calculate monthly salary components first
+    monthly_basic = employee_info.get('Basic Salary', 0) / 12
+    
+    # Calculate deductions
+    monthly_deductions = {
+        'PF (Provident Fund)': round(monthly_basic * 0.12, 2),
+        'Income Tax': round(monthly_basic * 0.2, 2),  # Simplified calculation
+        'Professional Tax': 200
+    }
+    
+    # If yearly is requested, multiply monthly values by 12
+    if is_yearly:
+        deductions = {
+            key: round(value * 12, 2) if key != 'Professional Tax' else value * 12
+            for key, value in monthly_deductions.items()
+        }
+        period = "Yearly"
+    else:
+        deductions = monthly_deductions
+        period = "Monthly"
+    
+    table_html = f"""
+    <table class="deduction-table">
+        <thead>
+            <tr>
+                <th>Type of Deduction ({period})</th>
+                <th>Amount (₹)</th>
+                <th>Calculation Basis</th>
+                <th>Purpose</th>
+            </tr>
+        </thead>
+        <tbody>
+    """
+    
+    details = {
+        'PF (Provident Fund)': {
+            'calc': '12% of Basic Salary',
+            'purpose': 'Retirement benefit and tax-free savings'
+        },
+        'Income Tax': {
+            'calc': '20% of taxable income',
+            'purpose': 'Government tax on income'
+        },
+        'Professional Tax': {
+            'calc': f'Fixed amount ({period})',
+            'purpose': 'State-specific professional levy'
+        }
+    }
+    
+    for deduction_type, amount in deductions.items():
+        table_html += f"""
+            <tr>
+                <td><strong>{deduction_type}</strong></td>
+                <td>₹{amount:,.2f}</td>
+                <td>{details[deduction_type]['calc']}</td>
+                <td>{details[deduction_type]['purpose']}</td>
+            </tr>
+        """
+    
+    table_html += """
+        </tbody>
+    </table>
+    """
+    return table_html
+
+def format_response_with_html(text, query, employee_info):
+    """Format the response with appropriate HTML styling"""
+    if is_deduction_query(query):
+        try:
+            # Check if the query is about yearly deductions
+            is_yearly = 'year' in query.lower()
+            return format_deduction_table(employee_info, is_yearly)
+        except Exception as e:
+            # Fallback to regular text format if there's an error
+            return f'<div class="response-text">{text}</div>'
+    else:
+        # Format regular responses with bold and highlighting
+        formatted_text = text.replace('**', '<strong>').replace('**', '</strong>')
+        return f'<div class="response-text">{formatted_text}</div>'
 
 def update_chat_history(employee_id, query, response):
     """Update chat history with timestamp and maintain 7-day limit."""
@@ -232,7 +308,7 @@ def chat():
                 return jsonify({'error': 'No response from AI model'}), 500
 
             # Format the response with HTML tags
-            formatted_response = format_response_with_html(response.text)
+            formatted_response = format_response_with_html(response.text, query, employee_info)
             
             # Update chat history cache
             update_chat_history(employee_id, query, formatted_response)
